@@ -1,0 +1,26 @@
+18/6/2019 11:47:12 π.μ.
+ 
+18/6/2019 12:01:39 μ.μ.
+ 
+18/6/2019 12:12:57 μ.μ.
+ 
+Warning
+A meta data file (.meta) exists but its asset 'Assets/models/City-Building-5-0/CityLearningBrain/model-50000.cptk' can't be found. When moving or deleting files outside of Unity, please ensure that the corresponding .meta file is moved or deleted along with it.
+
+Assert
+Removing Assets/models/City-Building-5-0/CityLearningBrain/model-50000.cptk because the asset does not exist
+
+18/6/2019 12:38:55 μ.μ.
+ 
+Warning
+A meta data file (.meta) exists but its asset 'Assets/models/City-Building-5-0/CityLearningBrain/model-50000.cptk' can't be found. When moving or deleting files outside of Unity, please ensure that the corresponding .meta file is moved or deleted along with it.
+
+Assert
+Removing Assets/models/City-Building-5-0/CityLearningBrain/model-50000.cptk because the asset does not exist
+
+Warning
+A meta data file (.meta) exists but its asset 'Assets/models/City-Building-5-0/CityLearningBrain/model-100000.cptk' can't be found. When moving or deleting files outside of Unity, please ensure that the corresponding .meta file is moved or deleted along with it.
+
+Assert
+Removing Assets/models/City-Building-5-0/CityLearningBrain/model-100000.cptk because the asset does not exist
+

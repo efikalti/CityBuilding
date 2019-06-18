@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 311cc3c206c298c4e803b4079b2d2f3f
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: Assets/models/CityBuilding-3-0/CityLearningBrain.nn
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 83221ad3db87f4b3b91b041047cb2bc5, type: 3}

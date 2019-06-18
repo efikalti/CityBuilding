@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cacb988ec716bf94084ec37c020de472
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flat_1_prefab: {fileID: 1690718430085594, guid: 6bd7f823c0d268245b8ba324ac5e617b,
+      type: 2}
+  - flat_2_prefab: {fileID: 1277813173361788, guid: 42be82bb682f9b24fa4ae2e12ca284cc,
+      type: 2}
+  - flat_3_prefab: {instanceID: 0}
+  - house_1_prefab: {instanceID: 0}
+  - house_2_prefab: {instanceID: 0}
+  - house_3_prefab: {instanceID: 0}
+  - sub_1_prefab: {instanceID: 0}
+  - sub_2_prefab: {instanceID: 0}
+  - sub_3_prefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

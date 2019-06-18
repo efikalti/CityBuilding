@@ -1,0 +1,25 @@
+Brain name,Time to update policy,Time since start of training,Time for last experience collection,Number of experiences used for training,Mean return
+CityLearningBrain,1.549,63.013,55.456,205,-29.777
+CityLearningBrain,1.037,119.351,50.063,205,-27.541
+CityLearningBrain,1.034,175.060,49.422,206,-24.440
+CityLearningBrain,0.986,230.810,49.478,205,-21.740
+CityLearningBrain,0.985,286.620,49.480,206,-19.217
+CityLearningBrain,0.985,342.489,49.577,205,-16.881
+CityLearningBrain,0.987,398.614,49.801,206,-14.728
+CityLearningBrain,0.985,454.641,49.570,205,-12.686
+CityLearningBrain,0.982,510.721,49.793,206,-10.916
+CityLearningBrain,0.973,566.480,49.515,205,-9.097
+CityLearningBrain,0.975,622.565,49.839,206,-7.390
+CityLearningBrain,0.979,678.227,49.375,205,-5.768
+CityLearningBrain,0.973,734.656,50.118,206,-4.254
+CityLearningBrain,0.974,790.783,49.806,205,-2.798
+CityLearningBrain,0.978,847.479,50.212,206,-1.415
+CityLearningBrain,0.976,903.499,49.700,205,-0.108
+CityLearningBrain,0.994,959.801,49.957,206,1.104
+CityLearningBrain,0.989,1015.820,49.731,205,2.255
+CityLearningBrain,0.978,1072.092,49.900,206,3.365
+CityLearningBrain,0.971,1128.990,50.559,205,4.445
+CityLearningBrain,0.971,1185.570,50.269,206,5.462
+CityLearningBrain,0.974,1241.944,49.840,205,6.406
+CityLearningBrain,0.975,1298.336,50.105,206,7.294
+CityLearningBrain,0.984,1355.268,50.658,205,8.178
